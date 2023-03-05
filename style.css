@@ -1,0 +1,58 @@
+.head{
+    height: 80vh;
+    width: 50%;
+    background-color: yellow;
+    border-radius: 80%;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+.eye{
+    height: 20vh;
+    width: 10%;
+    background-color: aqua;
+    border-radius: 80%;
+    margin-top: -400px;
+    margin-left: 600px;
+}
+.black{
+    
+    width: 60px;
+    background: #000;
+    margin-left: 35px;
+    padding-top: 90px;
+    border-radius: 80px;
+}
+.black-1{
+        
+    width: 60px;
+    background: #000;
+    margin-left: 35px;
+    padding-top: 90px;
+    border-radius: 80px;
+
+}
+.eye-1{
+    height: 20vh;
+    width: 10%;
+    background-color: aqua;
+    border-radius: 80%;
+    margin-left: 350px;
+    margin-top: -115px;
+}
+.mounth{
+    height: 20vh;
+    width: 30%;
+    background-color: orange;
+    border-radius: 80%;
+    border-top: 2px solid rgb(154, 79, 79);
+    border-bottom: 4px solid rgb(154, 79, 79);
+    margin-left: 350px;
+    margin-top: 60px; 
+}
+.teeth{
+    height: 40px;
+    width: 40px;
+    background: #fff;
+    margin-left: 120px;
+    border-radius: 10px;
+}
